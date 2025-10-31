@@ -18,9 +18,9 @@
             "args": [
                 "run",
                 "--components-path",
-                "components",
+                "${workspaceFolder}components",
                 "--env-file",
-                ".env"
+                "${workspaceFolder}.env"
             ],
             "envFile": "${workspaceFolder}/.env",
             "cwd": "${workspaceFolder}"
