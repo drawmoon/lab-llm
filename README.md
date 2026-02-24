@@ -32,6 +32,6 @@ Lab-LLM/
 ├── langchain/           # LangChain 相关示例与实验
 ├── langflow/            # LangFlow 可视化工作流与组件
 ├── langextract/         # LangExtract 文本解析与抽取实验
-├── langgraph/           # LangGraph 推理与图结构示例
-├── utils/               # 通用工具与脚本
+├── rag/                 # 结合知识库的知识问答助手 RAG（Retrieval-Augmented Generation） 方案示例
 └── docs/                # 文档与使用说明
+```
